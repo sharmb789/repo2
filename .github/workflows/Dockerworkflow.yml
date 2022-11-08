@@ -48,6 +48,6 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v2
         with:
-          context: .
+          context: autoc/
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/gitact:latest
+          tags: gitautoc:latest
