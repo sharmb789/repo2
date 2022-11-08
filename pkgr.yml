@@ -1,0 +1,19 @@
+Version:01
+# Top level packages
+Packages:
+    - abind
+    - BH
+ 
+ # Repository checked in order
+ Repos:
+    -CRAN: "https://cran.rstudio.com"
+    
+ #where to install packages?
+ Library: "/opt/R/GIT_R_VERSION/lib/R/library"
+ 
+ # any package specifc customizations
+ Cutomizations:
+    Packages:
+      - BH: 
+         Binary: true
+            
