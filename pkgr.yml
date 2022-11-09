@@ -1,24 +1,26 @@
 Version: 1
-# Top level packages
+# top level packages
 Packages:
-    - abind
-    - BH
+
+  - abind
+  - BH
  
- # Repository checked in order
- Repos:
+  
+  # any repositories, order matters
+Repos:
   - MPN: "https://mpn.metworx.com/snapshots/stable/2022-08-31"
   - BioCsoft: "https://bioconductor.org/packages/3.8/bioc"
   - BioCann: "https://bioconductor.org/packages/3.8/data/annotation"
   - BioCexp: "https://bioconductor.org/packages/3.8/data/experiment"
   - BioCworkflows: "https://bioconductor.org/packages/3.8/workflows"
   - CRAN: "https://cran.rstudio.com"
-    
- #where to install packages?
- Library: "/opt/R/GIT_R_VERSION/lib/R/library"
- 
- # any package specifc customizations
- Cutomizations:
-    Packages:
-      - BH: 
-         Binary: true
+
+# path to install packages to
+Library: "/opt/R/GIT_R_VERSION/lib/R/library"
+
+# package specific customizations
+Customizations:
+  Packages:
+    - BH:
+        Binary: true
             
