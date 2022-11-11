@@ -1,10 +1,7 @@
 Version: 1
 # top level packages
 Packages:
-
-  - abind
-  - BH
- 
+ path: $Packages.csv
   
   # any repositories, order matters
 Repos:
