@@ -1,7 +1,7 @@
 Version: 1
 # top level packages
 Packages:
- path: Packages.csv
+ path: repo2/Packages.txt
   
   # any repositories, order matters
 Repos:
