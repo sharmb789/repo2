@@ -1,7 +1,7 @@
 Version: 1
 # top level packages
 Packages:
- path: $Packages.csv
+ path: Packages.csv
   
   # any repositories, order matters
 Repos:
