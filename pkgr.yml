@@ -1,7 +1,9 @@
 Version: 1
 # top level packages
+env:
+ 
 Packages:
- path: repo2/Packages.txt
+ path: Packages.txt
   
   # any repositories, order matters
 Repos:
