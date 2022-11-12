@@ -31,7 +31,7 @@ jobs:
         name: Update R version
         run: |
           sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" Dockerfile
-          sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" pkgr.yml    
+          sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" .github/workflows/pkgr.yml    
   
       -   
         name: Set up QEMU
