@@ -22,5 +22,6 @@ RUN wget https://github.com/metrumresearchgroup/pkgr/releases/download/v3.1.0/pk
 && mv pkgr /usr/local/bin/pkgr \
 && chmod +x /usr/local/bin/pkgr \
 && rm -rf /tmp/pkgr.tar.gz
+COPY Packages.csv /Packages.csv
 COPY pkgr.yml /pkgr.yml
-RUN pkgr install
+
