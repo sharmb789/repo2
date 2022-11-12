@@ -1,6 +1,8 @@
 Version: 1
 # top level packages
-Packages: Packages.csv
+Packages: 
+  path: Packages.csv
+  column: column 1  
     
   
   # any repositories, order matters
