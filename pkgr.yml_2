@@ -1,0 +1,1379 @@
+Version: 1
+# top level packages
+Packages:
+- abind
+- acepack
+- acs
+- ada
+- ade4
+- AER
+- akima
+- AlignAssign
+- alr3
+- AmesHousing
+- animation
+- annotate
+- AnnotationDbi
+- anytime
+- aod
+- ape
+- AppliedPredictiveModeling
+- archetypes
+- arm
+- aroma.light
+- arrayhelpers
+- arrow
+- arsenal
+- asd
+- ash
+- AsioHeaders
+- askpass
+- assertive
+- assertive.base
+- assertive.code
+- assertive.data
+- assertive.data.uk
+- assertive.data.us
+- assertive.datetimes
+- assertive.files
+- assertive.matrices
+- assertive.models
+- assertive.numbers
+- assertive.properties
+- assertive.reflection
+- assertive.sets
+- assertive.strings
+- assertive.types
+- assertthat
+- attempt
+- aVirtualTwins
+- aws.ec2metadata
+- aws.s3
+- aws.signature
+- AzureAuth
+- AzureGraph
+- babelgene
+- babynames
+- backports
+- base64
+- base64enc
+- base64url
+- bayesm
+- bayesmix
+- bayesplot
+- bayesPred
+- bayesQR
+- bayesSurv
+- bayestestR
+- BBmisc
+- bbmle
+- bdsmatrix
+- beanplot
+- beeswarm
+- BGPhazard
+- BH
+- BiasedUrn
+- bibtex
+- bigassertr
+- biglm
+- bigparallelr
+- bigutilsr
+- binman
+- binom
+- Biobase
+- BiocFileCache
+- BiocGenerics
+- BiocManager
+- BiocParallel
+- biomaRt
+- biomformat
+- Biostrings
+- bit
+- bit64
+- bitops
+- blastula
+- blme
+- blob
+- blogdown
+- BLRMextra
+- bmp
+- bnlearn
+- BOIN
+- bold
+- bookdown
+- boot
+- boot
+- bootstrap
+- Boruta
+- BradleyTerry2
+- brew
+- brglm
+- bridgesampling
+- brio
+- brms
+- Brobdingnag
+- brolgar
+- broom
+- broom.helpers
+- broom.mixed
+- BRugs
+- bslib
+- bst
+- bvls
+- C50
+- cachem
+- cAIC4
+- Cairo
+- cairoDevice
+- calibrate
+- callr
+- car
+- carData
+- cardioModel
+- caret
+- caretEnsemble
+- cat
+- catchr
+- caTools
+- cba
+- cellranger
+- charlatan
+- checkmate
+- choroplethr
+- chron
+- circlize
+- CircStats
+- class
+- class
+- classifly
+- classInt
+- cli
+- clinDR
+- clinfun
+- clipr
+- clisymbols
+- clue
+- cluster
+- cluster
+- clusterGeneration
+- clv
+- cmdstanr
+- cmprsk
+- coda
+- codetools
+- codetools
+- coin
+- collapsibleTree
+- colorRamps
+- colorspace
+- colourpicker
+- combinat
+- commonmark
+- compare
+- ComplexHeatmap
+- compositions
+- CompQuadForm
+- conditionz
+- config
+- conflicted
+- conquer
+- ContourFunctions
+- contourPlot
+- contrast
+- CORElearn
+- corpcor
+- corrplot
+- corrr
+- countrycode
+- covr
+- cowplot
+- cpp11
+- crancache
+- cranlike
+- crayon
+- credentials
+- crmPack
+- crosstalk
+- crul
+- csvy
+- cubature
+- cubelyr
+- cubist
+- curl
+- curry
+- cvAU-c
+- cvTools
+- cy-clo-comp
+- DAAG
+- daff
+- dagitty
+- DALEX
+- dataCompareR
+- DataExplorer
+- dataframes2xls
+- datamods
+- datapasta
+- data.table
+- data.tree
+- datawizard
+- DBI
+- dbplyr
+- debugme
+DelayedArray
+deldir
+dendextend
+DEoptimR
+Deriv
+desc
+DescTools
+DESeq
+DESeq2
+desirability
+deSolve
+details
+devtools
+dfcrm
+dfoptim
+diagonals
+diagram
+DiagrammeR
+DiagrammeRsvg
+dials
+DiceDesign
+dichromat
+diffdf
+diffobj
+digest
+digitize
+diptest
+discrim
+distill
+distributional
+dmutate
+DMwR
+doBy
+dockerfiler
+docopt
+doMPI
+doParallel
+doRNG
+DoseFinding
+DoseResponse
+doSNOW
+dotCall64
+dotwhisker
+downlit
+downloader
+dparser
+dplyr
+drake
+drc
+drfit
+dslabs
+DT
+dtplyr
+DWD
+dygraphs
+dynamicGraph
+dynlm
+e1071
+earth
+EDASeq
+edgeR
+effects
+effectsize
+elastic
+elasticnet
+ElemStatLearn
+ellipse
+ellipsis
+emmeans
+energy
+entropy
+EnvStats
+Epi
+epiR
+epitools
+escalation
+esquisse
+estimability
+etm
+evaluate
+evtree
+Exact
+exactRankTests
+expm
+extracat
+fabletools
+factoextra
+FactoMineR
+fakir
+fansi
+faraway
+farver
+fastcluster
+fastcox
+fastGHQuad
+fastICA
+fastmap
+fastmatch
+fBasics
+FD
+fda
+fda.usc
+fdrtool
+fds
+feather
+feature
+ff
+ffbase
+fftwtools
+fgsea
+fields
+fiftystater
+filehash
+filelock
+fingerprint
+fitdistrplus
+flair
+flashClust
+flexdashboard
+flexmix
+flextable
+flock
+flow
+flsa
+FME
+FNN
+foba
+fontawesome
+fontBitstreamVera
+fontLiberation
+fontquiver
+forcats
+foreach
+forecast
+foreign
+foreign
+forestplot
+forge
+formatR
+formattable
+Formula
+fpc
+fracdiff
+freetypeharfbuzz
+fresh
+fs
+functional
+furrr
+futile.logger
+futile.options
+future
+future.apply
+GA
+gam
+gameofthrones
+gamm4
+ganttrify
+gapminder
+gargle
+gbm
+gbRd
+gclus
+gdata
+gdtools
+gee
+geepack
+geigen
+gemtc
+genefilter
+GeneNet
+geneplotter
+generalhoslem
+generics
+genetics
+GenomeInfoDb
+GenomeInfoDbData
+GenomicAlignments
+GenomicFeatures
+GenomicRanges
+GenSA
+geojsonsf
+geometries
+geometry
+geoR
+geoRglm
+gert
+getopt
+GetoptLong
+getPass
+GGally
+gganimate
+ggbeeswarm
+ggcorrplot
+ggdebug
+ggdist
+ggeasy
+ggedit
+ggeffects
+ggExtra
+ggforce
+ggfortify
+gghighlight
+gginnards
+ggiraph
+ggm
+ggmap
+ggplot2
+ggplotify
+ggpmisc
+ggPMX
+ggpp
+ggpubr
+ggRandomForests
+ggraph
+ggrepel
+ggridges
+ggsci
+ggsignif
+ggstance
+ggtext
+ggthemes
+ggvis
+gh
+gifski
+gistr
+git2r
+gitcreds
+glasso
+gld
+glmmTMB
+glmnet
+GlobalOptions
+globals
+glue
+gmailr
+gmm
+gmodels
+goftest
+golem
+goodpractice
+googledrive
+googlesheets4
+googleVis
+gower
+gpclib
+GPfit
+gplots
+gRain
+graph
+graphlayouts
+gRbase
+gridBase
+gridExtra
+gridGraphics
+gridSVG
+gridtext
+grr
+GSA
+gsDesign
+gsl
+gss
+gsubfn
+gt
+gtable
+gtools
+gtsummary
+gWidgets
+gWidgetsRGtk2
+h2o
+haplo.stats
+hardhat
+HardyWeinberg
+harrypotter
+haven
+hda
+HDclassif
+HDInterval
+hdrcde
+heatmap3
+heatmap.plus
+here
+hexbin
+highlight
+highr
+HLMdiag
+Hmisc
+hms
+HRW
+htmlTable
+htmltools
+htmlwidgets
+httpcode
+httpuv
+httr
+hunspell
+huxtable
+hwriter
+iBreakDown
+IDPmisc
+ids
+igraph
+iml
+impute
+infer
+influenceR
+ingredients
+ini
+inline
+insight
+interp
+inum
+invgamma
+iplots
+ipred
+IRanges
+irlba
+ISLR
+Iso
+isoband
+ISOcodes
+ISwR
+iterators
+itertools
+janeaustenr
+janitor
+JavaGD
+jcolors
+JGR
+jmvcore
+jomo
+jose
+jpeg
+jquerylib
+jsonify
+jsonlite
+kableExtra
+KEGGgraph
+keras
+kernlab
+KernSmooth
+KernSmooth
+keyring
+kimisc
+kknn
+klaR
+km.ci
+kml
+KMsurv
+knitcitations
+knitr
+kohonen
+KRLS
+ks
+labdsv
+labeling
+labelled
+laeken
+Lahman
+lambda.r
+lars
+lasso2
+later
+latex2exp
+lattice
+lattice
+latticeExtra
+lava
+lazyeval
+lbfgs
+lbfgsb3c
+ldbounds
+leafem
+leaflet
+leaflet.providers
+leafletR
+leafpop
+leafsync
+leaps
+LearnBayes
+learnr
+lhs
+libcoin
+lifecycle
+likert
+lime
+limma
+linprog
+lintr
+listenv
+lme4
+lmeresampler
+lmerTest
+lmodel2
+lmom
+lmtest
+lobstr
+locfit
+log4r
+LogicReg
+longitudinal
+longitudinalData
+loo
+lotri
+lpSolve
+lsei
+lsmeans
+lubridate
+lwgeom
+magic
+magick
+magrittr
+manipulate
+manipulateWidget
+mapproj
+maps
+maptools
+mapview
+margins
+markdown
+MASS
+MASS
+Matching
+MatchIt
+mathjaxr
+matie
+Matrix
+Matrix
+matrixcalc
+MatrixGenerics
+MatrixModels
+matrixStats
+maxLik
+maxstat
+mblm
+mboost
+mcbiopi
+mclust
+mcmc
+MCMCpack
+MCMCvis
+MCPMod
+mda
+memoise
+MEMSS
+merTools
+meta
+metafor
+metasens
+metaviz
+Metrics
+metrumrg
+mets
+mgcv
+mgcv
+mice
+microbenchmark
+Microsoft365R
+mime
+minerva
+miniCRAN
+miniUI
+minpack.lm
+minqa
+miranda
+misc3d
+miscTools
+missMDA
+mitools
+mix
+mixmeta
+mixOmics
+mixtools
+mlbench
+mlr
+mmapcharr
+mnormt
+mockery
+modeest
+modeldata
+ModelMetrics
+modelr
+modeltools
+moments
+moonBook
+MPV
+mrgsim.sa
+mrgsolve
+msigdbr
+msm
+mstate
+MSToolkit
+muhaz
+multcomp
+multcompView
+multicool
+multtest
+munsell
+mvmeta
+mvnfast
+mvoutlier
+mvtnorm
+myTAI
+n1qn1
+nabor
+NADA
+natserv
+NbClust
+ncappc
+nephro
+netmeta
+network
+networkD3
+neuralnet
+nleqslv
+nlme
+nlme
+nlmeODE
+nlmeU
+nlmixr
+nloptr
+NLP
+nlstools
+NMdata
+NMF
+NMproject
+nnet
+nnet
+nnls
+nodeHarvest
+nomnoml
+nor1mix
+norm
+nortest
+npsurv
+nullabor
+numDeriv
+nws
+nycflights13
+obliqueRF
+odbc
+officedown
+officer
+omsvg
+OncoPh1BLRM
+oompaBase
+openssl
+openxlsx
+optimx
+OptInterim
+optparse
+orderstats
+ordinal
+outliers
+overlapping
+packrat
+pagedown
+paletteer
+palmerpenguins
+palr
+pals
+pamr
+pan
+pander
+parallelly
+parallelMap
+parameters
+ParamHelpers
+parsedate
+parsermd
+parsnip
+partDSA
+party
+partykit
+patchDVI
+patchwork
+pbapply
+pbkrtest
+pBrackets
+PBSmapping
+PBSmodelling
+pcadapt
+pcaPP
+pcnetmeta
+pdftools
+pdp
+pec
+PEIP
+penalized
+penalizedLDA
+performance
+PerformanceAnalytics
+permute
+perry
+pgdraw
+ph2bayes
+phangorn
+pheatmap
+phyloseq
+physiology
+phytools
+pillar
+pimeta
+pingr
+pins
+pixmap
+PK
+pkgbuild
+pkgconfig
+pkgdown
+pkgload
+pkgmaker
+PKI
+PKNCA
+PKPDmisc
+PKPDsim
+playwith
+plogr
+plot3D
+plotly
+plotMCMC
+plotmo
+plotrix
+plotROC
+pls
+plumber
+plyr
+pmxTools
+png
+pointblank
+polspline
+polyclip
+polynom
+pool
+PopED
+posterior
+PowerTOST
+ppls
+prabclus
+pracma
+praise
+PreciseSums
+PredictABEL
+prediction
+PResiduals
+prettyunits
+prismatic
+pROC
+processx
+prodlim
+profileModel
+profvis
+progress
+progressr
+projpred
+promises
+proto
+proxy
+pryr
+ps
+pscl
+psych
+Publish
+purrr
+qap
+qcc
+qpdf
+qrnn
+qs
+QSARdata
+quadprog
+quantmod
+quantreg
+quantregForest
+questionr
+quint
+qvcalc
+r2d3
+R2HTML
+R2jags
+R2OpenBUGS
+R2WinBUGS
+R3port
+R6
+ragg
+rainbow
+RAM
+randomcoloR
+RandomFields
+RandomFieldsUtils
+randomForest
+randomForestSRC
+randtoolbox
+ranger
+RANN
+rapidjsonr
+RApiSerialize
+rappdirs
+rapportools
+RArcInfo
+rARPACK
+raster
+ratelimitr
+rbenchmark
+RBesT
+RBGL
+rbibutils
+rBLAST
+rbokeh
+R.cache
+rCharts
+rcmdcheck
+RColorBrewer
+Rcpp
+RcppArmadillo
+RcppEigen
+RcppGSL
+RcppParallel
+RcppProgress
+RCurl
+rda
+Rdpack
+reactable
+reactlog
+reactR
+readbitmap
+readODS
+readr
+readxl
+recipes
+RefManageR
+registry
+relaxo
+rematch
+rematch2
+remedy
+remotes
+rentrez
+renv
+repmis
+repr
+reprex
+reshape
+reshape2
+ResourceSelection
+rethinking
+reticulate
+revdepcheck
+RevoIOQ
+rex
+rFerns
+rgdal
+rgeos
+rgexf
+rggobi
+rgl
+Rglpk
+RgoogleMaps
+Rgraphviz
+RGtk2
+rhandsontable
+rhdf5
+rhdf5filters
+Rhdf5lib
+RhpcBLASctl
+Rhtslib
+rio
+riskRegression
+ritis
+rjags
+rJava
+RJDBC
+rjson
+RJSONIO
+rJython
+rlang
+rle
+rlecuyer
+rlist
+RLRsim
+rmarkdown
+rmeta
+R.methodsS3
+rmio 
+Rmpi 
+rms 
+rmutil 
+RMySQL 
+rncl 
+rngtools 
+rngWELL 
+RNifti 
+RNMImport 
+robCompositions 
+robustbase 
+robustHD 
+rocc 
+ROCR 
+RODBC 
+RODBC 
+R.oo 
+Rook 
+rootSolve 
+ROracle 
+rotl 
+rowr 
+roxygen2 
+rpanel 
+rpart 
+rpart 
+rpart.plot 
+RPMG 
+RPostgres 
+RPostgreSQL 
+rprojroot 
+rrcov 
+rredlist 
+RRF 
+rrlda 
+R.rsp 
+rsample 
+Rsamtools 
+rsconnect 
+RSEIS 
+RSelenium 
+RSNNS 
+Rsolnp 
+rspeaksnonmem 
+RSpectra 
+RSQLite 
+RsSimulx 
+rstan 
+rstanarm 
+rstanmulticore 
+rstantools 
+rstatix 
+rstudioapi 
+rsvd 
+rsvg 
+rSymPy 
+rticles 
+rtracklayer 
+Rtsne 
+RUnit 
+runjags 
+R.utils 
+RUVSeq 
+rversions 
+rvest 
+rvg 
+Rwave 
+RWeka 
+RWekajars 
+RxODE 
+s2 
+S4Vectors 
+saemix 
+saemixextension 
+salesforcer 
+samr 
+sandwich 
+SASmixed 
+sass 
+satellite 
+scales 
+scape 
+scatterplot3d 
+scico 
+scifigure 
+sda 
+secret 
+segmented 
+selectr 
+semver 
+seriation 
+servr 
+sessioninfo 
+settings 
+sf 
+sfheaders 
+sfsmisc 
+sgeostat 
+shape 
+shinipsum 
+shiny 
+shinyAce 
+shinyalert 
+shinyBS 
+shinycssloaders 
+shinydashboard 
+shinydashboardPlus 
+shinyFeedback 
+shinyFiles 
+shinyjs 
+shinyloadtest 
+shinyMixR 
+shinyobjects 
+shiny.router 
+shinystan 
+shinytest 
+shinythemes 
+shinyWidgets 
+shortcuts 
+ShortRead 
+showimage 
+simsurv 
+sitmo 
+sjlabelled 
+sjmisc 
+sjPlot 
+sjstats 
+skimr 
+slam 
+slickR 
+slider 
+sm 
+smoothSurv 
+sna 
+snakecase 
+SnakeCharmR 
+snippr 
+snow 
+SnowballC 
+snowfall 
+sodium 
+solrium 
+som 
+sourcetools 
+sp 
+spam 
+sparseLDA 
+SparseM 
+sparsepca 
+spatial 
+spatial 
+SpatialEpi 
+spatstat 
+spatstat.core 
+spatstat.data 
+spatstat.geom 
+spatstat.linnet 
+spatstat.sparse 
+spatstat.utils 
+spData 
+spdep 
+splancs 
+splitstackshape 
+spls 
+splus2R 
+sqldf 
+SQUAREM 
+sROC 
+ssanv 
+stable 
+stabledist 
+stabs 
+StanHeaders 
+stapler 
+staplr 
+stars 
+statip 
+statmod 
+statnet.common 
+stepPlr 
+stopwords 
+storr 
+stratRCT 
+stringdist 
+stringfish 
+stringi 
+stringr 
+strucchange 
+styler 
+subselect 
+subsemble 
+SummarizedExperiment 
+summarytools 
+sundialr 
+SuperLearner 
+superpc 
+sure 
+survey 
+survival 
+survminer 
+survMisc 
+survRM2 
+sva 
+svglite 
+svgPanZoom 
+svUnit 
+swagger 
+symengine 
+sys 
+systemfit 
+systemfonts 
+table1 
+tableone 
+tables 
+tabplot 
+targets 
+taxize 
+tcltk2 
+TeachingDemos 
+tensor 
+tensorA 
+tensorflow 
+terra 
+testthat 
+texPreview 
+textdata 
+textshaping 
+tfautograph 
+tfestimators 
+tfruns 
+TH.data 
+thematic 
+threejs 
+tibble 
+tidybayes 
+tidycensus 
+tidygraph 
+tidyHeatmap 
+tidylog 
+tidymodels 
+tidymodules 
+tidypredict 
+tidyproject 
+tidyr 
+tidyselect 
+tidytext 
+tidyverse 
+tiff 
+tigris 
+timeDate 
+timereg 
+timeSeries 
+tinytex 
+tkrplot 
+tm 
+tmap 
+tmaptools 
+TMB 
+tmvnsim 
+tmvtnorm 
+tokenizers 
+TOSTER 
+transformr 
+trialr 
+triebeard 
+trimcluster 
+truncnorm 
+tseries 
+tsibble 
+TSP 
+TTR 
+tufte 
+tune 
+twang 
+tweenr 
+txtq 
+tzdb 
+ucminf 
+udunits2 
+unglue 
+units 
+urca 
+urltools 
+usethis 
+utf8 
+uuid 
+V8 
+validate 
+varSelRF 
+vcd 
+vctrs 
+vdiffr 
+vegan 
+VennDiagram 
+VGAM 
+VIM 
+vip 
+vipor 
+viridis 
+viridisLite 
+visdat 
+visNetwork 
+vpc 
+vroom 
+waiter 
+waldo 
+warp 
+WDI 
+wdman 
+webdriver 
+webshot 
+websocket 
+webutils 
+wesanderson 
+whereami 
+whisker 
+whoami 
+widgetframe 
+WikidataQueryServiceR 
+WikidataR 
+WikipediR 
+wikitaxa 
+withr 
+wk 
+wordcloud 
+workflows 
+workflowsets 
+worrms 
+xaringan 
+xfun 
+xgboost 
+xgxr 
+xlsx 
+xlsxjars 
+XML 
+XML 
+xml2 
+xmlparsedata 
+xopen 
+xpose 
+xpose4 
+xpose.nlmixr 
+xtable 
+xts 
+XVector 
+yaml 
+yardstick 
+ymlthis 
+yulab.utils 
+zCompositions 
+zeallot 
+zip 
+zlibbioc 
+zoo 
+ztable
+
+  
+  # any repositories, order matters
+Repos:
+  - MPN: "https://mpn.metworx.com/snapshots/stable/2022-08-31"
+  - BioCsoft: "https://bioconductor.org/packages/3.8/bioc"
+  - BioCann: "https://bioconductor.org/packages/3.8/data/annotation"
+  - BioCexp: "https://bioconductor.org/packages/3.8/data/experiment"
+  - BioCworkflows: "https://bioconductor.org/packages/3.8/workflows"
+  - CRAN: "https://cran.rstudio.com"
+
+# path to install packages to
+Library: "/opt/R/GIT_R_VERSION/lib/R/library"
+
+# package specific customizations
+Customizations:
+  Packages:
+    - BH:
+        Binary: true
+            
