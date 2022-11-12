@@ -30,9 +30,15 @@ jobs:
       -
         name: Update R version
         run: |
-          sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" Dockerfile  
-          sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" pkgr.yml
+          sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" Dockerfile 
+          pkgr install 
       -
+        name: Read packages
+        uses: read-csv-file-action@v1
+        with:
+          path: Packages.csv
+          column: column 1 
+      -   
         name: Set up QEMU
         uses: docker/setup-qemu-action@v1
       -
