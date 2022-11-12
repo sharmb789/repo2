@@ -51,5 +51,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/repo2:version1
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/repo2:version2
           
