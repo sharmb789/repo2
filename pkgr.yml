@@ -1,11 +1,11 @@
 Version: 1
 # top level packages
 
--name: Read packages
+Packages:
     uses: read-csv-file-action@v1
     with:
       path: Packages.csv
-      column: column 1  
+       
     
   
   # any repositories, order matters
