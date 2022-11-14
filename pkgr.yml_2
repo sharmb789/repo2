@@ -219,108 +219,108 @@ Packages:
 - DBI
 - dbplyr
 - debugme
-DelayedArray
-deldir
-dendextend
-DEoptimR
-Deriv
-desc
-DescTools
-DESeq
-DESeq2
-desirability
-deSolve
-details
-devtools
-dfcrm
-dfoptim
-diagonals
-diagram
-DiagrammeR
-DiagrammeRsvg
-dials
-DiceDesign
-dichromat
-diffdf
-diffobj
-digest
-digitize
-diptest
-discrim
-distill
-distributional
-dmutate
-DMwR
-doBy
-dockerfiler
-docopt
-doMPI
-doParallel
-doRNG
-DoseFinding
-DoseResponse
-doSNOW
-dotCall64
-dotwhisker
-downlit
-downloader
-dparser
-dplyr
-drake
-drc
-drfit
-dslabs
-DT
-dtplyr
-DWD
-dygraphs
-dynamicGraph
-dynlm
-e1071
-earth
-EDASeq
-edgeR
-effects
-effectsize
-elastic
-elasticnet
-ElemStatLearn
-ellipse
-ellipsis
-emmeans
-energy
-entropy
-EnvStats
-Epi
-epiR
-epitools
-escalation
-esquisse
-estimability
-etm
-evaluate
-evtree
-Exact
-exactRankTests
-expm
-extracat
-fabletools
-factoextra
-FactoMineR
-fakir
-fansi
-faraway
-farver
-fastcluster
-fastcox
-fastGHQuad
-fastICA
-fastmap
-fastmatch
-fBasics
-FD
-fda
-fda.usc
+- DelayedArray
+- deldir
+- dendextend
+- DEoptimR
+- Deriv
+- desc
+- DescTools
+- DESeq
+- DESeq2
+- desirability
+- deSolve
+- details
+- devtools
+- dfcrm
+- dfoptim
+- diagonals
+- diagram
+- DiagrammeR
+- DiagrammeRsvg
+- dials
+- DiceDesign
+- dichromat
+- diffdf
+- diffobj
+- digest
+- digitize
+- diptest
+- discrim
+- distill
+- distributional
+- dmutate
+- DMwR
+- doBy
+- dockerfiler
+- docopt
+- doMPI
+- doParallel
+- doRNG
+- DoseFinding
+- DoseResponse
+- doSNOW
+- dotCall64
+- dotwhisker
+- downlit
+- downloader
+- dparser
+- dplyr
+- drake
+- drc
+- drfit
+- dslabs
+- DT
+- dtplyr
+- DWD
+- dygraphs
+- dynamicGraph
+- dynlm
+- e1071
+- earth
+- EDASeq
+- edgeR
+- effects
+- effectsize
+- elastic
+- elasticnet
+- ElemStatLearn
+- ellipse
+- ellipsis
+- emmeans
+- energy
+- entropy
+- EnvStats
+- Epi
+- epiR
+- epitools
+- escalation
+- esquisse
+- estimability
+- etm
+- evaluate
+- evtree
+- Exact
+- exactRankTests
+- expm
+- extracat
+- fabletools
+- factoextra
+- FactoMineR
+- fakir
+- fansi
+- faraway
+- farver
+- fastcluster
+- fastcox
+- fastGHQuad
+- fastICA
+- fastmap
+- fastmatch
+- fBasics
+- FD
+- fda
+- fda.usc
 fdrtool
 fds
 feather
