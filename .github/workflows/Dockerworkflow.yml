@@ -9,7 +9,7 @@ on:
     branches: 
     - 'main'
     paths: 
-    - 'Packages.csv'
+    - 'pkgr.yml'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -31,7 +31,7 @@ jobs:
         name: Update R version
         run: |
           sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" Dockerfile
-          sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" .github/workflows/pkgr.yml    
+          sed -i -e "s#GIT_R_VERSION#${{ env.R_VERSION }}#" pkgr.yml    
   
       -   
         name: Set up QEMU
@@ -51,5 +51,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/repo2:version2
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/repo2:version3
           
